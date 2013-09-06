@@ -6,4 +6,10 @@
  * To change this template use File | Settings | File Templates.
  */
 public class chap8class {
+  a = 4;
+  b = 5;
+  chap8class (int d) {
+    int v = d * a * b;
+    return v;
+  }
 }
