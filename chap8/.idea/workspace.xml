@@ -4,6 +4,7 @@
     <list default="true" id="a58fd302-9586-4db0-a711-9bd9221c7783" name="Default" comment="" />
     <ignored path="chap8.iws" />
     <ignored path=".idea/workspace.xml" />
+    <file path="/chap8class.java" changelist="a58fd302-9586-4db0-a711-9bd9221c7783" time="1378458434702" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,16 @@
       <file leaf-file-name="chap8class.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/chap8class.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="30" selection-start="177" selection-end="177" vertical-scroll-proportion="0.12513144">
+            <state line="11" column="9" selection-start="236" selection-end="236" vertical-scroll-proportion="0.19663513">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newclass.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/newclass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -79,6 +89,13 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/chap8class.java" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -412,9 +429,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/newclass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/chap8class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="30" selection-start="177" selection-end="177" vertical-scroll-proportion="0.12513144">
+        <state line="11" column="9" selection-start="236" selection-end="236" vertical-scroll-proportion="0.19663513">
           <folding />
         </state>
       </provider>
