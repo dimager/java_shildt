@@ -8,7 +8,7 @@
 public class chap8class {
   int a = 4;
   int b = 5;
-  chap8class (int d) {
+  int chap8classs (int d) {
     int v = d * a * b;
     return v;
   }
