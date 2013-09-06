@@ -1,0 +1,20 @@
+/**
+ * Created with IntelliJ IDEA.
+ * User: Mager Dmitry
+ * Date: 12.07.13
+ * Time: 18:58
+ * To change this template use File | Settings | File Templates.
+ */
+class Comma {
+    public static void main(String args[]) {
+        int a, b;
+
+        for(a=1, b=4; a<b; a++, b--) {
+            System.out.println("a = " + a);
+            System.out.println("b = " + b);
+        }
+        System.out.println(b);
+
+    }
+
+}
